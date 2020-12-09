@@ -6,3 +6,4 @@ Commentary on Vizhub's tutorials on D3js.
 
 Code via: https://vizhub.com/curran/c5475d7c95d348d5b8268012fbccb728
 
+<iframe src="https://vizhub.com/curran/3a00f5c877ac4e30b7269c17f29d2e4d?mode=snippet&amp;file=index.html#" title="Smiley Face Part II" height="1050" width="600"></iframe>
